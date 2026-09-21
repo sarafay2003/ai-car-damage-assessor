@@ -4,3 +4,6 @@ __pycache__/
 runs/
 .idea/
 .env
+Car_damage_detection-*/
+runs/
+*.pt
