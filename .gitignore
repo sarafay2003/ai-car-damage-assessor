@@ -7,3 +7,4 @@ runs/
 Car_damage_detection-*/
 runs/
 *.pt
+models/*.pt
