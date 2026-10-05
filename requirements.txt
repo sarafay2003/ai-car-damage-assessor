@@ -1,0 +1,6 @@
+ultralytics
+streamlit
+pandas
+matplotlib
+roboflow
+pillow
